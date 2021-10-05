@@ -1,0 +1,68 @@
+.big-container{
+    margin-top: -9px;
+    padding: 20px 0 20px 0;
+    height: auto;
+}
+.view-img{
+    height: auto;
+    width: 68%;
+    float: left;
+}
+.img-size{
+    /* margin-top: -50px; */
+    width: 100% !important;
+    border-radius: 29px;
+    background-size: contain;
+    height: 490px !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: rgba(48, 52, 56, 0.877) !important;
+}
+.carousel-inner{
+    width: 100% !important;
+}
+.carousel-item h2{
+    font-size: 21px ;
+    font-weight: 600;
+    color: rgb(2, 48, 92);
+    background-color: rgba(255, 255, 255, 0.596);
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px;
+    flex: 40px;
+    color: rgb(238, 226, 226);
+}
+.carousel-caption{
+    /* float: right !important; */
+    border-radius: 15px;
+    font-size: 21px;
+    font-weight: 600;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: rgba(48, 52, 56, 0.877) !important;
+}
+.content-right-card-view{
+    float: right;
+    height: auto;
+    padding: 4px;
+    border-radius: 12px;
+    background-color: rgba(112, 128, 144, 0.322);
+    width: 30%;
+    margin-right: 15px;
+
+}
+.header-archive{
+    text-align: center;
+    width: 100%;
+    color: rgba(9, 51, 85, 0.801);
+}
+.header-archive h2{
+    font-weight: 600;
+}
+ul.dropdown-menu{
+
+    width: 56% !important;
+}
+li.dropdown-item{
+    width: 56% !important;
+}
